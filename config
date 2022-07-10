@@ -1,0 +1,36 @@
+{
+  "Version": "0.0.1",
+  "ReleaseNotes": "DONO @HYVOZIN\nENTRE EM NOSSO CANAL @MEDUAPENAS",
+  "UrlUpdate": "",
+  "Sms": "",
+  "EmailFeedback": "",
+  "UrlContato": "https://t.me/hyvozin",
+  "UrlTermos": "https://t.me/meduapenas",
+  "CheckUser": "true",
+  "UdpPort": "7300;7500;7295;7296;7200;7297;7298;7299;7400",
+  "Servers": [
+      {
+      "Name": "ATUALIZE",
+      "TYPE": "premium",
+      "FLAG": "br.png",
+      "ServerIP": "",
+      "CheckUser": "",
+      "ServerPort": "",
+      "SSLPort": "",
+      "USER": "off",
+      "PASS": "off"
+    }
+  ],
+  "Networks": [
+    {
+      "Name": "AGORA",
+      "FLAG": "vivo",
+      "Payload": "",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "Info": "Proxy"
+    }
+  ]
+}
