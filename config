@@ -19,18 +19,7 @@
       "SSLPort": "443",
       "USER": "",
       "PASS": ""
-    },
-    {
-      "Name": "BR-SV1 | FREE",
-      "TYPE": "premium",
-      "FLAG": "br.png",
-      "ServerIP": "SEU_DOMINIO",
-      "CheckUser": "http://IP DA VPS AQUI:5454/checkUser",
-      "ServerPort": "22",
-      "SSLPort": "443",
-      "USER": "",
-      "PASS": ""
-    },
+    }
     {
       "Name": "BR-SV2 | FREE",
       "TYPE": "premium",
