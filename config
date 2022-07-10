@@ -2,7 +2,7 @@
   "Version": "0.0.1",
   "ReleaseNotes": "DONO @HYVOZIN\nENTRE EM NOSSO CANAL @MEDUAPENAS",
   "UrlUpdate": "",
-  "Sms": "",
+  "Sms": "https://raw.githubusercontent.com/hyvozin/c4ghyvozin/main/sms",
   "EmailFeedback": "",
   "UrlContato": "https://t.me/hyvozin",
   "UrlTermos": "https://t.me/meduapenas",
@@ -17,8 +17,8 @@
       "CheckUser": "",
       "ServerPort": "",
       "SSLPort": "",
-      "USER": "off",
-      "PASS": "off"
+      "USER": "",
+      "PASS": ""
     }
   ],
   "Networks": [
