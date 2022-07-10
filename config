@@ -13,57 +13,13 @@
       "Name": "AUTOMATICO",
       "TYPE": "premium",
       "FLAG": "id.png",
-      "ServerIP": "SEU_DOMINIO",
-      "CheckUser": "http://IP DA VPS AQUI:5454/checkUser",
+      "ServerIP": "dbz.gokussh.ml",
+      "CheckUser": "http://20.206.78.4:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",
       "PASS": ""
     }
-    {
-      "Name": "BR-SV2 | FREE",
-      "TYPE": "premium",
-      "FLAG": "br.png",
-      "ServerIP": "SEU_DOMINIO",
-      "CheckUser": "http://IP DA VPS AQUI:5454/checkUser",
-      "ServerPort": "22",
-      "SSLPort": "443",
-      "USER": "",
-      "PASS": ""
-    },
-    {
-      "Name": "BR-SV3 | FREE",
-      "TYPE": "premium",
-      "FLAG": "br.png",
-      "ServerIP": "SEU_DOMINIO",
-      "CheckUser": "http://IP DA VPS AQUI:5454/checkUser",
-      "ServerPort": "22",
-      "SSLPort": "443",
-      "USER": "",
-      "PASS": ""
-    },
-    {
-      "Name": "CA-SV4 | FREE",
-      "TYPE": "free",
-      "FLAG": "ca.png",
-      "ServerIP": "SEU_DOMINIO",
-      "CheckUser": "http://IP DA VPS AQUI:5454/checkUser",
-      "ServerPort": "22",
-      "SSLPort": "443",
-      "USER": "",
-      "PASS": ""
-    },
-    {
-      "Name": "US-SV5 | FREE",
-      "TYPE": "free",
-      "FLAG": "us.png",
-      "ServerIP": "SEU_DOMINIO",
-      "CheckUser": "http://IP DA VPS AQUI:5454/checkUser",
-      "ServerPort": "22",
-      "SSLPort": "443",
-      "USER": "",
-      "PASS": ""
-    },
  ],
  "Networks": [
 {
