@@ -10,9 +10,9 @@
   "UdpPort": "7300;7500;7295;7296;7200;7297;7298;7299;7400",
   "Servers": [
     {
-      "Name": "AUTOMATICO",
+      "Name": "acesso 30 dias 10pila",
       "TYPE": "premium",
-      "FLAG": "ic_eu.png",
+      "FLAG": "eu.png",
       "ServerIP": "dbz.gokussh.ml",
       "CheckUser": "http://20.206.78.4:5454/checkUser",
       "ServerPort": "22",
