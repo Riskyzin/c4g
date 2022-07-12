@@ -12,7 +12,7 @@
     {
       "Name": "AUTOMATICO",
       "TYPE": "premium",
-      "FLAG": "eu.png",
+      "FLAG": "ic_eu.png",
       "ServerIP": "dbz.gokussh.ml",
       "CheckUser": "http://20.206.78.4:5454/checkUser",
       "ServerPort": "22",
