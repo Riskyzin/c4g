@@ -12,7 +12,7 @@
     {
       "Name": "acesso 30 dias 10pila",
       "TYPE": "premium",
-      "FLAG": "hk.png",
+      "FLAG": "ca.png",
       "ServerIP": "dbz.gokussh.ml",
       "CheckUser": "http://20.206.78.4:5454/checkUser",
       "ServerPort": "22",
