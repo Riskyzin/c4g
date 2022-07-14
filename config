@@ -12,7 +12,7 @@
     {
       "Name": "SERVIDOR KBLZ",
       "TYPE": "premium",
-      "FLAG": "ca.png",
+      "FLAG": "br.png",
       "ServerIP": "dbz.gokussh.ml",
       "CheckUser": "http://20.206.78.4:5454/checkUser",
       "ServerPort": "22",
