@@ -14,7 +14,7 @@
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "dbz.gokussh.ml",
-      "CheckUser": "http://20.226.26.68:5000/checkUser",
+      "CheckUser": "http://20.226.26.68:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",
