@@ -1,5 +1,5 @@
 {
-  "Version": "0.0.1",
+  "Version": "0.0.2",
   "ReleaseNotes": "DONO @HYVOZIN\nCANAL @MEDUAPENAS",
   "UrlUpdate": "https://raw.githubusercontent.com/hyvozin/c4ghyvozin/main/config",
   "Sms": "https://raw.githubusercontent.com/hyvozin/c4ghyvozin/main/sms",
@@ -14,7 +14,7 @@
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "dbz.gokussh.ml",
-      "CheckUser": "http://20.206.78.4:5454/checkUser",
+      "CheckUser": "http://20.226.26.68:5000/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",
