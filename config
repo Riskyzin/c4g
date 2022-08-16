@@ -10,11 +10,33 @@
   "UdpPort": "7300;7500;7295;7296;7200;7297;7298;7299;7400",
   "Servers": [
     {
-      "Name": "SERVIDOR KBLZ",
+      "Name": "PUDIM SERVER 01",
       "TYPE": "premium",
       "FLAG": "br.png",
-      "ServerIP": "dbz.gokussh.ml",
-      "CheckUser": "http://20.226.26.68:5454/checkUser",
+      "ServerIP": "pudim.hyvozin.ml",
+      "CheckUser": "http://20.226.8.137:5454/checkUser",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "",
+      "PASS": ""
+    },
+{
+      "Name": "PUDIM SERVER 02",
+      "TYPE": "premium",
+      "FLAG": "br.png",
+      "ServerIP": "kcah.hyvozin.ml",
+      "CheckUser": "http://20.226.8.137:5454/checkUser",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "",
+      "PASS": ""
+    },
+{
+      "Name": "PUDIM SERVER 03 | CLIENTES",
+      "TYPE": "premium",
+      "FLAG": "br.png",
+      "ServerIP": "dbz.hyvozin.ml",
+      "CheckUser": "http://20.226.8.137:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",
