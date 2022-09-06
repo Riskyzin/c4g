@@ -5,7 +5,7 @@
   "Sms": "https://raw.githubusercontent.com/hyvozin/c4ghyvozin/main/sms",
   "EmailFeedback": "",
   "UrlContato": "https://t.me/hyvozin",
-  "UrlTermos": "https://t.me/ajudanetfri",
+  "UrlTermos": "https://t.me/meduapenas",
   "CheckUser": "true",
   "UdpPort": "7300;7500;7295;7296;7200;7297;7298;7299;7400",
   "Servers": [
@@ -14,28 +14,6 @@
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "pudim.hyvozin.ml",
-      "CheckUser": "http://20.226.8.137:5454/checkUser",
-      "ServerPort": "22",
-      "SSLPort": "443",
-      "USER": "",
-      "PASS": ""
-    },
-{
-      "Name": "PUDIM SERVER 02",
-      "TYPE": "premium",
-      "FLAG": "br.png",
-      "ServerIP": "kcah.hyvozin.ml",
-      "CheckUser": "http://20.226.8.137:5454/checkUser",
-      "ServerPort": "22",
-      "SSLPort": "443",
-      "USER": "",
-      "PASS": ""
-    },
-{
-      "Name": "PUDIM SERVER 03 | CLIENTES",
-      "TYPE": "premium",
-      "FLAG": "br.png",
-      "ServerIP": "dbz.hyvozin.ml",
       "CheckUser": "http://20.226.8.137:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
