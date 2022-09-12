@@ -19,9 +19,51 @@
       "SSLPort": "443",
       "USER": "",
       "PASS": ""
+    },
+    {
+      "Name": "SERVER 666 👑",
+      "TYPE": "PREMIUM",
+      "FLAG": "br.png",
+      "ServerIP": "aparecidapaulino.ga",
+      "CheckUser": "http://20.206.126.222:5454/checkUser",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "0800",
+      "PASS": "MaestroRRP"
+    },
+    {
+      "Name": "SERVER 999 🌟",
+      "TYPE": "PREMIUM",
+      "FLAG": "br.png",
+      "ServerIP": "pereiradasilva.ga",
+      "CheckUser": "http://20.206.250.36:5454/checkUser",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "",
+      "PASS": ""
     }
  ],
   "Networks": [
+{
+      "Name": "🟣 VIVO SERVER 666 👑",
+      "FLAG": "vivo.png",
+      "Payload": "GET / HTTP/1.1[crlf]Host: d3urv3xhc7qm05.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "52.85.213.82",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+   {
+      "Name": "🟣 VIVO SERVER 999 🌟",
+      "FLAG": "vivo.png",
+      "Payload": "GET / HTTP/1.1[crlf]Host: dcn4gng3xi851.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "13.227.97.65",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
 { 
             "Name": "TIM PEGANDO [005]", 
             "FLAG": "tim", 
