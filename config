@@ -1,6 +1,6 @@
 {
-  "Version": "1.0.3",
-  "ReleaseNotes": "DONO @HYVOZIN\nCANAL @MEDUAPENAS",
+  "Version": "1.0.4",
+  "ReleaseNotes": "ENTRE NO GRUPO\n\n@NUVEMPUDINFICADA",
   "UrlUpdate": "https://raw.githubusercontent.com/hyvozin/c4ghyvozin/main/config",
   "Sms": "https://raw.githubusercontent.com/hyvozin/c4ghyvozin/main/sms",
   "EmailFeedback": "",
@@ -17,37 +17,37 @@
       "CheckUser": "http://20.226.8.137:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
-      "USER": "",
-      "PASS": ""
+      "USER": "pudim",
+      "PASS": "pudim"
     },
     {
-      "Name": "SERVER 666 👑",
+      "Name": "SERVER CLOUD [1]",
       "TYPE": "PREMIUM",
       "FLAG": "br.png",
-      "ServerIP": "aparecidapaulino.ga",
+      "ServerIP": "pudim.hyvozin.ml",
       "CheckUser": "http://20.206.126.222:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
-      "USER": "0800",
-      "PASS": "MaestroRRP"
+      "USER": "rbs+*dooG",
+      "PASS": "rbs+*dooG"
     },
-    {
-      "Name": "SERVER 999 🌟",
+{
+      "Name": "SERVER CLOUD [2]",
       "TYPE": "PREMIUM",
       "FLAG": "br.png",
-      "ServerIP": "pereiradasilva.ga",
-      "CheckUser": "http://20.206.250.36:5454/checkUser",
+      "ServerIP": "pudim.hyvozin.ml",
+      "CheckUser": "http://20.206.126.222:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
-      "USER": "",
-      "PASS": ""
+      "USER": "rbs+*dooG",
+      "PASS": "rbs+*dooG"
     }
  ],
   "Networks": [
 {
-      "Name": "🟣 VIVO SERVER 666 👑",
+      "Name": "VIVO CLOUD [1]",
       "FLAG": "vivo.png",
-      "Payload": "GET / HTTP/1.1[crlf]Host: d3urv3xhc7qm05.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: d2g32eb7fmwnhx.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "52.85.213.82",
@@ -55,9 +55,9 @@
       "Info": "Proxy"
     },
    {
-      "Name": "🟣 VIVO SERVER 999 🌟",
+      "Name": "VIVO CLOUD [2]",
       "FLAG": "vivo.png",
-      "Payload": "GET / HTTP/1.1[crlf]Host: dcn4gng3xi851.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: d1pbxlzqpgl91c.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "13.227.97.65",
