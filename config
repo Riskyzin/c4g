@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.7",
+  "Version": "1.0.8",
   "ReleaseNotes": "ENTRE NO GRUPO\n\n@NUVEMPUDINFICADA",
   "UrlUpdate": "https://raw.githubusercontent.com/hyvozin/c4g/main/config",
   "Sms": "https://raw.githubusercontent.com/hyvozin/c4g/main/sms",
@@ -46,33 +46,33 @@
   "Networks": [
 {
             "Nome": "𝕍𝕀𝕍𝕆 𝕍𝕀ℙ 01 𝙍𝘼𝙄𝙊",
-            "BANDEIRA": "vivo.png",
+            "FLAG": "vivo.png",
             "Payload": "GET wss://lojaempresas.vivo.com.br HTTP/1.9[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf]Keep-Alive:[ crlf][crlf]",
-            "SNI": " lojaempresas.vivo.com.br ",
-            "TlsIP": " lojaempresas.vivo.com.br ",
-            "IP de Proxy": "",
+            "SNI": "lojaempresas.vivo.com.br",
+            "TlsIP": "lojaempresas.vivo.com.br",
+            "ProxyIP": "",
             "ProxyPort": "443",
-            "Informações": "Tlsws"
+            "Info": "Tlsws"
         },
         {
             "Nome": "𝕍𝕀𝕍𝕆 𝕍𝕀ℙ 02 𝙂𝘼𝙈𝙀𝙎",
-            "BANDEIRA": "vivo.png",
+            "FLAG": "vivo.png",
             "Payload": "GET wss://uk.audiobooks.com HTTP/1.9[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf]Keep-Alive:[crlf] [crlf]",
-            "SNI": " uk.audiobooks.com ",
-            "TlsIP": " pt.audiobooks.com ",
-            "IP de Proxy": "",
+            "SNI": "uk.audiobooks.com",
+            "TlsIP": "pt.audiobooks.com",
+            "ProxyIP": "",
             "ProxyPort": "443",
-            "Informações": "Tlsws"
+            "Info": "Tlsws"
         },
         {
             "Nome": "𝕍𝕀𝕍𝕆 𝕍𝕀ℙ 03 𝙎𝙋𝙀𝙀𝘿",
-            "BANDEIRA": "vivo.png",
+            "FLAG": "vivo.png",
             "Payload": "GET wss://lojaempresas.vivo.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
-            "SNI": " lojaempresas.vivo.com.br ",
+            "SNI": "lojaempresas.vivo.com.br",
             "TlsIP": "104.18.7.80",
-            "IP de Proxy": "",
+            "ProxyIP": "",
             "ProxyPort": "443",
-            "Informações": "Tlsws"
+            "Info": "Tlsws"
         },
 {
       "Name": "VIVO CLOUD [1]",
