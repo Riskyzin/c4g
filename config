@@ -64,14 +64,15 @@
       "Info": "Direct" 
     }, 
     {
-"Name": "CLARO 4.0 DDD 91❤",
+      "Name": "CLARO 4.0 DDD 91❤",
       "FLAG": "claro",
       "Payload": "GET wss://claro.appsclub.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: WebSocket\n\n",
       "SNI": "claro.appsclub.com.br",
       "TlsIP": "claro.appsclub.com.br",
       "ProxyIP": "",
       "ProxyPort": "",
-      "Info": "Tlsws"},
+      "Info": "Tlsws"
+},
   {
       "Name": "❤️CLARO [SSL 1]",
       "FLAG": "claro",
