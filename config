@@ -1,5 +1,5 @@
 {
-  "Version": "6.6.6",
+  "Version": "1.0.18",
   "ReleaseNotes": "ENTRE NO GRUPO\n\n@NUVEMPUDINFICADA",
   "UrlUpdate": "https://raw.githubusercontent.com/hyvozin/c4g/main/config",
   "Sms": "https://raw.githubusercontent.com/hyvozin/c4g/main/sms",
@@ -42,7 +42,7 @@
       "ProxyIP": "[app_host]",
       "ProxyPort": "80",
       "Info": "Proxy"
-   }
+   },
 {
             "Name": "VIVO CLOUDFLARE [1]",
             "FLAG": "vivo.png",
