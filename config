@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.19",
+  "Version": "1.0.20",
   "ReleaseNotes": "ENTRE NO GRUPO\n\n@NUVEMPUDINFICADA",
   "UrlUpdate": "https://raw.githubusercontent.com/hyvozin/c4g/main/config",
   "Sms": "https://raw.githubusercontent.com/hyvozin/c4g/main/sms",
@@ -13,23 +13,23 @@
       "Name": "PUDIM SERVER [1]",
       "TYPE": "premium",
       "FLAG": "br.png",
-      "ServerIP": "",
+      "ServerIP": "pudim.hyvozin.ml",
       "CheckUser": "http://20.197.235.228:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
-      "USER": "",
-      "PASS": ""
+      "USER": "pudim",
+      "PASS": "pudim"
     },
 {
       "Name": "HOOD SERVER [2]",
       "TYPE": "premium",
       "FLAG": "br.png",
-      "ServerIP": "",
+      "ServerIP": "1.taurosnet.store",
       "CheckUser": "http://20.197.235.228:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
-      "USER": "",
-      "PASS": ""
+      "USER": "Wellingto",
+      "PASS": "1234"
     }
  ],
   "Networks": [
