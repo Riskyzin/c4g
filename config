@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.14",
+  "Version": "1.0.15",
   "ReleaseNotes": "ENTRE NO GRUPO\n\n@NUVEMPUDINFICADA",
   "UrlUpdate": "https://raw.githubusercontent.com/hyvozin/c4g/main/config",
   "Sms": "https://raw.githubusercontent.com/hyvozin/c4g/main/sms",
@@ -22,6 +22,16 @@
     }
  ],
   "Networks": [
+{
+      "Name": "CLARO MODO AVIÃO",
+      "FLAG": "claro",
+      "Payload": "GET http://bonuz.claro.com.br HTTP/1.0[crlf]Host: http://contaonline2.claro.com.br[crlf]Connection: keep-alive[crlf]User-Agent: Upgrade [crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "[app_host]",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+   }
 {
             "Name": "VIVO CLOUDFLARE [1]",
             "FLAG": "vivo.png",
