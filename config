@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.24",
+  "Version": "1.0.25",
   "ReleaseNotes": "ENTRE NO GRUPO\n\n@NUVEMPUDINFICADA",
   "UrlUpdate": "https://raw.githubusercontent.com/hyvozin/c4g/main/config",
   "Sms": "https://raw.githubusercontent.com/hyvozin/c4g/main/sms",
@@ -33,16 +33,6 @@
     }
  ],
   "Networks": [
-    {
-      "Name": "CLARO 4.0 DDD 91❤",
-      "FLAG": "claro",
-      "Payload": "GET wss://claro.appsclub.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: WebSocket\n\n",
-      "SNI": "claro.appsclub.com.br",
-      "TlsIP": "claro.appsclub.com.br",
-      "ProxyIP": "",
-      "ProxyPort": "",
-      "Info": "Tlsws"
-},
   {
       "Name": "❤️CLARO [SSL 1]",
       "FLAG": "claro",
