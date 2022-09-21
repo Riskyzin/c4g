@@ -22,26 +22,6 @@
     }
  ],
   "Networks": [
-{
-      "Name": "TIM TESTE 1",
-      "FLAG": "tim",
-      "Payload": "GET wss://assets-sf.c6bank.com.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
-      "SNI": "assets-sf.c6bank.com.br",
-      "TlsIP": "104.16.237.16",
-      "ProxyIP": "",
-      "ProxyPort": "443",
-      "Info": "Tlsws"
-   },
-     {
-      "Name": "TIM TESTE 2",
-      "FLAG": "tim",
-      "Payload": "GET wss://auth.of.c6bank.com.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
-      "SNI": "auth.of.c6bank.com.br",
-      "TlsIP": "172.64.144.237",
-      "ProxyIP": "",
-      "ProxyPort": "443",
-      "Info": "Tlsws"
-   },
     {
       "Name": "💙 TIM 4G Online",
       "FLAG": "tim",
