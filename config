@@ -1,6 +1,6 @@
 {
-  "Version": "1.0.28",
-  "ReleaseNotes": "Versão v1.0.28\n\nTeste na tiM",
+  "Version": "1.0.29",
+  "ReleaseNotes": "Versão v29\n\nTeste na tiM",
   "UrlUpdate": "https://raw.githubusercontent.com/hyvozin/c4g/main/config",
   "Sms": "https://raw.githubusercontent.com/hyvozin/c4g/main/sms",
   "EmailFeedback": "",
@@ -23,7 +23,7 @@
  ],
   "Networks": [
   {
-      "Name": "🍮 MENU - CONEXÕES NOVAS 🍮",
+      "Name": "🍮 CONEXÕES NOVAS 🍮",
       "Payload": "HTTP/",
       "SNI": "",
       "TlsIP": "",
