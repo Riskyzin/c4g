@@ -1,6 +1,6 @@
 {
-  "Version": "1.0.26",
-  "ReleaseNotes": "Versão v1.0.26\n\nTeste na tiM",
+  "Version": "1.0.27",
+  "ReleaseNotes": "Versão v1.0.27\n\nTeste na tiM",
   "UrlUpdate": "https://raw.githubusercontent.com/hyvozin/c4g/main/config",
   "Sms": "https://raw.githubusercontent.com/hyvozin/c4g/main/sms",
   "EmailFeedback": "",
@@ -19,17 +19,6 @@
       "SSLPort": "443",
       "USER": "pudim",
       "PASS": "pudim"
-    },
-{
-      "Name": "HOOD SERVER [2]",
-      "TYPE": "premium",
-      "FLAG": "br.png",
-      "ServerIP": "1.taurosnet.store",
-      "CheckUser": "http://20.197.235.228:5454/checkUser",
-      "ServerPort": "22",
-      "SSLPort": "443",
-      "USER": "Wellingto",
-      "PASS": "1234"
     }
  ],
   "Networks": [
@@ -54,7 +43,7 @@
       "Info": "Tlsws"
    },
     {
-            "Name": "💙 TIM 4G Online",
+      "Name": "💙 TIM 4G Online",
       "FLAG": "tim",
       "Payload": "GET wss://static.r4you.co  HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "static.r4you.co",
