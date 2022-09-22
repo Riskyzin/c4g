@@ -1,6 +1,6 @@
 {
-  "Version": "1.0.30",
-  "ReleaseNotes": "Versão v30\n\nTeste na tiM",
+  "Version": "1.0.31",
+  "ReleaseNotes": "Versão v31\n\nTeste na tiM",
   "UrlUpdate": "https://raw.githubusercontent.com/hyvozin/c4g/main/config",
   "Sms": "https://raw.githubusercontent.com/hyvozin/c4g/main/sms",
   "EmailFeedback": "",
@@ -31,6 +31,26 @@
       "ProxyPort": "80",
       "Info": "Direct"
      },
+    {
+            "Name": "💙TIM NOVA 5",
+            "FLAG": "tim",
+            "Payload": "GET wss://auth.of.c6bank.com.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+            "SNI": "auth.of.c6bank.com.br",
+            "TlsIP": "172.64.144.237",
+            "ProxyIP": "",
+            "ProxyPort": "443",
+            "Info": "Tlsws"
+          },
+{
+                    "Name": "💙TIM imagem",
+                    "FLAG": "tim",  
+                    "Payload": "GET wss://image.mail.c6bank.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+                    "SNI": "image.mail.c6bank.com.br",
+                    "TlsIP": "image.mail.c6bank.com.br",
+                    "ProxyIP": "",
+                    "ProxyPort": "443",
+                    "Info": "Tlsws"
+                  },
 {
       "Name": "TIM TESTE [1]",
       "FLAG": "tim",
